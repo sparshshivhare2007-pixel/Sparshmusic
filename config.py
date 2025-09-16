@@ -40,7 +40,7 @@ API_HASH = os.getenv("API_HASH")
 BOT_TOKEN = os.getenv("BOT_TOKEN")
 OWNER_ID = int(os.getenv("OWNER_ID", None))
 OWNER_USERNAME = os.getenv("OWNER_USERNAME", "oye_notty")
-BOT_USERNAME = os.getenv("BOT_USERNAME", "radhika_musical_robot")
+BOT_USERNAME = os.getenv("BOT_USERNAME", "https://t.me/shimzukaXmusic_robot")
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # 🛠️ Database & Deployment Configs
@@ -63,12 +63,12 @@ GIT_TOKEN = os.getenv("GIT_TOKEN", None)
 # 🔗 Support Links
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-SUPPORT_CHANNEL = os.getenv("SUPPORT_CHANNEL", "https://t.me/sparshq")
-SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/FRIENDS_WALA_SUPPORT")
+SUPPORT_CHANNEL = os.getenv("SUPPORT_CHANNEL", "https://t.me/SHIMZUKA_NETWORK")
+SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/SHIMZUKA_SUPPORT")
 INSTAGRAM = os.getenv("INSTAGRAM", "https://instagram.com/ig_sparshgaming26")
-YOUTUBE = os.getenv("YOUTUBE", "https://t.me/FRIENDS_WALA_SUPPORT")
-GITHUB = os.getenv("GITHUB", "https://t.me/FRIENDS_WALA_SUPPORT")
-DONATE = os.getenv("DONATE", "https://t.me/FRIENDS_WALA_SUPPORT")
+YOUTUBE = os.getenv("YOUTUBE", "https://t.me/SHIMZUKA_SUPPORT")
+GITHUB = os.getenv("GITHUB", "https://t.me/SHIMZUKA_SUPPORT")
+DONATE = os.getenv("DONATE", "https://t.me/SHIMZUKA_SUPPORT")
 PRIVACY_LINK = os.getenv("PRIVACY_LINK", "https://graph.org/Privacy-Policy-05-01-30")
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
