@@ -14,12 +14,12 @@
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "29448785",
+      "value": "26407665",
       "required": true
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "599574f6aff0a09ebb76305b58e7e9c2",
+      "value": "f10822a551f38b26ee1179e1a6515e01",
       "required": true
     },
     "BOT_TOKEN": {
@@ -34,22 +34,22 @@
     },
     "OWNER_ID": {
       "description": "The user id of user whom you would like to add as OWNER.",
-      "value": "7574330905",
+      "value": "8158429107",
       "required": true
     },
     "OWNER_USERNAME": {
       "description": "The username of the owner (without @)",
-      "value": "WTF_WhyMeeh",
+      "value": "OYE_BABU",
       "required": true
     },
     "BOT_USERNAME": {
       "description": "The username of your bot (without @)",
-      "value": "ShrutixMusicBot",
+      "value": "shimzukaXmusic_robot",
       "required": true
     },
     "UPSTREAM_REPO": {
       "description": "URL of your GitHub repository",
-      "value": "https://github.com/NoxxOP/ShrutiMusic",
+      "value": "https://github.com/sparshshivhare2007-pixel/Sparshmusic.git",
       "required": false
     },
     "STRING_SESSION": {
@@ -74,17 +74,17 @@
     },
     "LOG_GROUP_ID": {
       "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Do not ever try to put channel ID here.",
-      "value": "-1002321189618",
+      "value": "-1003069480186",
       "required": true
     },
     "SUPPORT_GROUP": {
       "description": "Your support group username (without @)",
-      "value": "https://t.me/ShrutiBotsupport",
+      "value": "https://t.me/SHIMZUKA_SUPPORT",
       "required": false
     },
     "SUPPORT_CHANNEL": {
       "description": "Your support channel username (without @)",
-      "value": "https://t.me/ShrutiBots",
+      "value": "https://t.me/SHIMZUKA_NETWORK",
       "required": false
     },
     "INSTAGRAM": {
@@ -114,7 +114,7 @@
     },
     "START_IMG_URL": {
       "description": "Image that appears with the /start command",
-      "value": "",
+      "value": "https://graph.org/file/ae01ab36b2fc648fbf253-6f8623bd574f5b1174.jpg",
       "required": false
     }
   },
